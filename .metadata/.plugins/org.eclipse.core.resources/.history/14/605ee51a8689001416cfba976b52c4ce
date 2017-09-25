@@ -1,0 +1,48 @@
+package hilogame;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+//开始游戏
+
+public class Start {
+	public Connection connection;
+	public Statement stmta;
+	public ResultSet rs;
+
+	/**
+	 * @param args
+	 * @throws ClassNotFoundException 
+	 * @throws SQLException 
+	 */
+	public static void main(String[] args) throws SQLException{
+		Start s=new Start();
+		try{
+			Class.forName("com.mysql.jdbc.Driver");
+			s.connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/BookDB","root","abc");
+			s.stmta = s.connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_UPDATABLE);
+		}
+		catch(ClassNotFoundException ex){
+			System.out.println("找不到数据库驱动程序");
+		}
+		catch(SQLException ex){
+			System.out.println("不能建立与数据库的连接或不能建立语句对象");
+		}
+		String a = "SELECT * FROM fuqiang;";
+		try {
+			s.rs=s.stmta.executeQuery(a);
+		} catch (SQLException e) {
+			// TODO 自动生成的 catch 块
+			e.printStackTrace();
+		}
+		System.out.println(s.rs.getString(1));
+		// TODO 自动生成的方法存根
+		//HiLo mygame = new HiLo();
+		//mygame.setLocationRelativeTo(null);
+		//mygame.setVisible(true);
+
+	}
+
+}

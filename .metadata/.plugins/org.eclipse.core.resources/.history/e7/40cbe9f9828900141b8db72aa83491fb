@@ -1,0 +1,21 @@
+package hilogame;
+
+//开始游戏
+
+public class Start {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		String a;
+		a="你好";
+		System.out.println(a);
+		HiLo mygame = new HiLo();
+		mygame.setLocationRelativeTo(null);
+		mygame.setVisible(true);
+
+	}
+
+}

@@ -1,0 +1,281 @@
+Creating elements for HiLo.java
+
+
+>>>  about to create class java.awt.FlowLayout, constructor=public java.awt.FlowLayout()
+<<< created class java.awt.FlowLayout
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+
+    >>>  about to create class java.awt.Color
+    <<< error creating class java.awt.Color, java.lang.NoSuchMethodException: java.awt.Color.<init>()
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+
+    >>>  about to create class java.awt.Dimension
+    <<< created class java.awt.Dimension
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+
+    >>>  about to create class java.awt.Font
+    <<< error creating class java.awt.Font, java.lang.NoSuchMethodException: java.awt.Font.<init>()
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class hilogame.User, constructor=public hilogame.User()
+<<< created class hilogame.User
+
+>>>  about to create class java.lang.String, constructor=public java.lang.String()
+<<< created class java.lang.String
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.FlowLayout, constructor=public java.awt.FlowLayout()
+<<< created class java.awt.FlowLayout
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class hilogame.Database, constructor=public hilogame.Database()
+<<< created class hilogame.Database
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.lang.String, constructor=public java.lang.String()
+<<< created class java.lang.String
+
+>>>  about to create class java.awt.FlowLayout, constructor=public java.awt.FlowLayout()
+<<< created class java.awt.FlowLayout
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Color, constructor=public java.awt.Color(int,int,int)
+<<< created class java.awt.Color
+
+>>>  about to create class java.awt.FlowLayout, constructor=public java.awt.FlowLayout()
+<<< created class java.awt.FlowLayout
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.FlowLayout, constructor=public java.awt.FlowLayout()
+<<< created class java.awt.FlowLayout
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class java.awt.Font, constructor=public java.awt.Font(java.lang.String,int,int)
+<<< created class java.awt.Font
+
+>>>  about to create class javax.swing.JFrame, constructor=public javax.swing.JFrame() throws java.awt.HeadlessException
+<<< created class javax.swing.JFrame
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JTextField, constructor=public javax.swing.JTextField()
+<<< created class javax.swing.JTextField
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JTextField, constructor=public javax.swing.JTextField()
+<<< created class javax.swing.JTextField
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JTextField, constructor=public javax.swing.JTextField()
+<<< created class javax.swing.JTextField
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
+
+>>>  about to create class javax.swing.JTextField, constructor=public javax.swing.JTextField()
+<<< created class javax.swing.JTextField
+
+>>>  about to create class javax.swing.JLabel, constructor=public javax.swing.JLabel()
+<<< created class javax.swing.JLabel
